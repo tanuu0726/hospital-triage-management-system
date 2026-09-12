@@ -1,2 +1,2 @@
 # hospital-triage-management-system
-A c++ and DSA based hospital triage system that prioritizes patientbased on emergency severity and arrival time.
+A c++ and DSA based hospital triage system that prioritizes patient based on emergency severity and arrival time.
